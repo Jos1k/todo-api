@@ -1,14 +1,19 @@
 {
   "name": "todoapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "Just a simple Todo Api Application for trainings in node js stuff",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Ihor Hadzera",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0"
+  },
+  "repository" :
+  { 
+    "type" : "git", 
+    "url" : "https://github.com/Jos1k/todo-api.git"
   }
 }
