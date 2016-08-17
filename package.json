@@ -9,11 +9,11 @@
   "author": "Ihor Hadzera",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.15.2",
     "express": "^4.14.0"
   },
-  "repository" :
-  { 
-    "type" : "git", 
-    "url" : "https://github.com/Jos1k/todo-api.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jos1k/todo-api.git"
   }
 }
